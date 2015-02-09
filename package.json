@@ -1,6 +1,6 @@
 {
   "name": "kettil-env",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The module defines the variables NODE_ENV and NODE_CONFIG_DIR.",
   "author": "Kjell Dießel <development@kettil.de> (http://kettil.de)",
   "keywords": [
