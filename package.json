@@ -1,0 +1,26 @@
+{
+  "name": "kettil-env",
+  "version": "0.0.1",
+  "description": "The module defines the variables NODE_ENV and NODE_CONFIG_DIR.",
+  "author": "Kjell Dießel <development@kettil.de> (http://kettil.de)",
+  "keywords": [
+    "env"
+  ],
+  "devDependencies": {
+    "grunt": "0.4",
+    "grunt-contrib-jshint": "0.10",
+    "grunt-contrib-watch": "0.6"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kettil/node-env.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kettil/node-env/issues"
+  },
+  "license": "MIT"
+}
