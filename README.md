@@ -18,3 +18,13 @@ The modules defines the NODE_CONFIG_DIR variable, if it is not defined.
 The variable is defined with the path to the config folder in the project directory.
 
 The variable is read by the [module config](https://www.npmjs.com/package/config).
+
+## Install
+
+```
+$ npm install kettil-env
+```
+
+## License
+MIT
+
