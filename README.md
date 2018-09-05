@@ -1,5 +1,7 @@
 # kettil-env
 
+### 🚧🚨🚧 Project is deprecated and it is no longer maintained 🚧🚨🚧
+
 ## Description
 
 The module defines the variables NODE_ENV and NODE_CONFIG_DIR.
